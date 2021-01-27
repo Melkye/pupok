@@ -17,7 +17,7 @@ blablablabla
 One tilda
 ~~~
 
-~~`
+~~~
 - Two tildas
 ~~
 Two tildas
